@@ -1,97 +1,112 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/multi-innovations-healthcare/.github/main/profile/assets/mih-logo-full.png" alt="Multi Innovations Healthcare Logo" width="480" />
+  <img src="https://raw.githubusercontent.com/multi-innovations-healthcare/.github/main/profile/assets/mih-logo-full.png" alt="Multi Innovations Healthcare Logo" width="520" />
 
   <br />
   <br />
 
   <h3><strong>บริษัท มัลติ อินโนเวชั่น เฮลแคร์ จำกัด</strong></h3>
   <p><strong>Multi Innovations Healthcare Co., Ltd. (MIH)</strong></p>
-  <p><em>Advancing Healthcare with Intelligent HIS, Seamless Data Exchange & AI Analytics</em></p>
+  <p><em>Advancing Healthcare with Intelligent HIS, Seamless Data Exchange & Healthcare AI Analytics</em></p>
 
   <p>
     <a href="https://www.mih.co.th"><img src="https://img.shields.io/badge/Website-mih.co.th-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://myui.mih.co.th"><img src="https://img.shields.io/badge/Docs-myui.mih.co.th-10b981?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation" /></a>
     <a href="https://www.npmjs.com/package/@multi_innovations_healthcare/myui"><img src="https://img.shields.io/npm/v/@multi_innovations_healthcare/myui?color=cb3837&label=%40multi_innovations_healthcare%2Fmyui&logo=npm&style=flat-square" alt="npm" /></a>
-    <img src="https://img.shields.io/badge/Focus-HealthTech%20%26%20HIS-6366f1?style=flat-square" alt="HealthTech" />
-    <img src="https://img.shields.io/badge/Location-Thailand-f59e0b?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/Industry-HealthTech%20%26%20HIS-6366f1?style=flat-square" alt="HealthTech" />
+    <img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-f59e0b?style=flat-square" alt="Location" />
   </p>
 
 </div>
 
 ---
 
-### 🏥 เกี่ยวกับเรา (About MIH)
+### 🏥 เกี่ยวกับองค์กร (About Us)
 
-**บริษัท มัลติ อินโนเวชั่น เฮลแคร์ จำกัด (MIH)** เป็นผู้นำด้านการวิจัยและพัฒนานวัตกรรมเทคโนโลยีสารสนเทศสุขภาพ (HealthTech) ในประเทศไทย เรามุ่งมั่นยกระดับระบบบริการทางการแพทย์และสาธารณสุข ด้วยการพัฒนาระบบบริหารจัดการโรงพยาบาลและหน่วยบริการปฐมภูมิ (HIS / Primary Care Information System), ระบบเชื่อมโยงและแลกเปลี่ยนข้อมูลสุขภาพระดับชาติ ตลอดจนการประยุกต์ใช้ปัญญาประดิษฐ์ (AI) เพื่อสนับสนุนการตัดสินใจของบุคลากรทางการแพทย์อย่างแม่นยำและปลอดภัย
+**บริษัท มัลติ อินโนเวชั่น เฮลแคร์ จำกัด (MIH)** เป็นผู้พัฒนานวัตกรรมเทคโนโลยีสารสนเทศสุขภาพชั้นนำ มุ่งขับเคลื่อนระบบสุขภาพไทยด้วยโซลูชันซอฟต์แวร์มาตรฐานระดับสากล 
+
+เราพัฒนาตั้งแต่ระบบบริหารจัดการโรงพยาบาลและหน่วยบริการปฐมภูมิ (**HIS / Primary Care Information System**) ที่ครอบคลุมโรงพยาบาลส่งเสริมสุขภาพตำบล (รพ.สต.), ศูนย์บริการสาธารณสุข และคลินิกชุมชนอบอุ่น เชื่อมต่อข้อมูลอย่างไร้รอยต่อไปยังแพลตฟอร์มแลกเปลี่ยนข้อมูลสุขภาพ (**Health Data Exchange Platform**) และบูรณาการปัญญาประดิษฐ์ทางการแพทย์ (**Healthcare AI**) เพื่อความแม่นยำ ปลอดภัย และยกระดับคุณภาพชีวิตของประชาชน
 
 ---
 
 ### 🌐 นวัตกรรมและระบบงานหลัก (Solutions & Ecosystem)
 
-<br />
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🩺 MyPCU & HCIS / PHCIS</h4>
-      <p>ระบบสารสนเทศบริการสาธารณสุขและโรงพยาบาลส่งเสริมสุขภาพตำบล (รพ.สต.), ศูนย์บริการสาธารณสุข และคลินิกชุมชนอบอุ่น</p>
+      <div align="left">
+        <img src="https://raw.githubusercontent.com/multi-innovations-healthcare/.github/main/profile/assets/MyPCU_NB.png" alt="MyPCU" height="34" />
+        <h4>MyPCU & HCIS / PHCIS</h4>
+      </div>
+      <p>ระบบสารสนเทศบริการสาธารณสุขและโรงพยาบาลส่งเสริมสุขภาพตำบล (รพ.สต.) ศูนย์บริการสาธารณสุข และคลินิกชุมชนอบอุ่น</p>
       <ul>
-        <li>ระบบทะเบียนผู้รับบริการและคัดกรองสุขภาพ (OPD / Screening)</li>
-        <li>ระบบห้องตรวจแพทย์และบันทึกการรักษา (EMR / Doctor Station)</li>
-        <li>ระบบนัดหมายผู้ป่วยและระบบคิวอัจฉริยะ</li>
-        <li>รองรับมาตรฐานการจัดเก็บและส่งออกข้อมูลสุขภาพระดับประเทศ</li>
+        <li><strong>เวชระเบียนและคัดกรอง:</strong> บันทึกประวัติ ซักประวัติ และตรวจสุขภาพตามมาตรฐาน</li>
+        <li><strong>ห้องตรวจแพทย์ (EMR):</strong> บันทึกผลวินิจฉัย สั่งการรักษา และเชื่อมโยงประวัติย้อนหลัง</li>
+        <li><strong>ระบบนัดหมาย & Smart Queue:</strong> จัดการคิวตรวจและแจ้งเตือนนัดหมายผู้รับบริการ</li>
+        <li><strong>รองรับเกณฑ์มาตรฐาน:</strong> จัดเก็บและส่งออกข้อมูลสุขภาพระดับประเทศอย่างถูกต้อง</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 MyDATA & Data Exchange Platform</h4>
-      <p>แพลตฟอร์มศูนย์กลางการเชื่อมโยง แลกเปลี่ยน และประมวลผลข้อมูลสุขภาพ</p>
+      <div align="left">
+        <img src="https://raw.githubusercontent.com/multi-innovations-healthcare/.github/main/profile/assets/MyDATA_NB.png" alt="MyDATA" height="34" />
+        <h4>MyDATA & Health Data Exchange</h4>
+      </div>
+      <p>แพลตฟอร์มศูนย์กลางการเชื่อมโยง แลกเปลี่ยน และประมวลผลข้อมูลสุขภาพระดับเขตและประเทศ</p>
       <ul>
-        <li>ส่งออกและตรวจสอบมาตรฐาน 43 แฟ้ม, 16 แฟ้ม, 13 แฟ้ม</li>
-        <li>เชื่อมโยงระบบ HDC กระทรวงสาธารณสุข และ สปสช. (NHSO)</li>
-        <li>ส่งข้อมูลเบิกจ่ายกองทุน CSOP, SSOP, AIPN และกรมบัญชีกลาง</li>
-        <li>ระบบ Data Pipeline และ Health Analytics Dashboard</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Healthcare AI & Analytics Platform</h4>
-      <p>การบูรณาการเทคโนโลยี AI เพื่อเพิ่มประสิทธิภาพงานบริการสาธารณสุข</p>
-      <ul>
-        <li><strong>HCIS AI Passport</strong> & Clinical AI Assistant</li>
-        <li>ระบบประมวลผลและคัดกรองกลุ่มเสี่ยงด้วย Machine Learning</li>
-        <li>ระบบช่วยตรวจสอบคำสั่งการรักษาและความสมบูรณ์ของเวชระเบียน</li>
-        <li>Smart Workflow Automation ลดภาระงานเอกสารของแพทย์และพยาบาล</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 MyTeleHealth & Remote Care</h4>
-      <p>ระบบการแพทย์ทางไกลและการดูแลสุขภาพต่อเนื่อง</p>
-      <ul>
-        <li>ระบบปรึกษาแพทย์และเจ้าหน้าที่แบบ Real-time Video Call</li>
-        <li>การบันทึกประวัติการปรึกษาเชื่อมตรงเข้าเวชระเบียนกลาง</li>
-        <li>ระบบติดตามอาการผู้ป่วยกลุ่มโรคเรื้อรัง (NCDs) ทางไกล</li>
+        <li><strong>มาตรฐานข้อมูลสุขภาพ:</strong> ประมวลผลและตรวจสอบ 43 แฟ้ม, 16 แฟ้ม, 13 แฟ้ม</li>
+        <li><strong>เชื่อมโยงส่วนกลาง:</strong> ส่งข้อมูลตรงไปยังระบบ HDC กระทรวงสาธารณสุข และ สปสช. (NHSO)</li>
+        <li><strong>เคลมและเบิกจ่ายกองทุน:</strong> CSOP, SSOP, AIPN และระบบของกรมบัญชีกลาง</li>
+        <li><strong>Health Analytics:</strong> แดชบอร์ดวิเคราะห์สถิติสุขภาพและรายงานระบาดวิทยาแบบ Real-time</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💊 MyINVENTORY</h4>
+      <div align="left">
+        <h4>🤖 Healthcare AI & Analytics Platform</h4>
+      </div>
+      <p>การบูรณาการเทคโนโลยี AI เพื่อสนับสนุนการตัดสินใจและเพิ่มประสิทธิภาพงานสาธารณสุข</p>
+      <ul>
+        <li><strong>HCIS AI Passport & Assistant:</strong> ผู้ช่วยอัจฉริยะสำหรับแพทย์และบุคลากรทางการแพทย์</li>
+        <li><strong>Clinical Decision Support:</strong> โมเดลวิเคราะห์แนวโน้มสุขภาพและช่วยคัดกรองโรคเรื้อรัง</li>
+        <li><strong>Smart Medical Transcription:</strong> ระบบบันทึกเสียงและแปลงข้อความทางการแพทย์</li>
+        <li><strong>Workflow Automation:</strong> ลดภาระงานเอกสาร คืนเวลาให้แพทย์และพยาบาลดูแลผู้ป่วย</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h4>📱 MyTeleHealth & Remote Care</h4>
+      </div>
+      <p>แพลตฟอร์มแพทย์ทางไกลและการดูแลสุขภาพต่อเนื่อง</p>
+      <ul>
+        <li><strong>Real-time Teleconsultation:</strong> ปรึกษาแพทย์และบุคลากรผ่านระบบวิดีโอคุณภาพสูง (LiveKit / WebRTC)</li>
+        <li><strong>Seamless EMR Sync:</strong> บันทึกประวัติการปรึกษาและผลตรวจเชื่อมตรงเข้าเวชระเบียนกลาง</li>
+        <li><strong>Home Health Care & NCDs:</strong> ติดตามอาการผู้ป่วยโรคเรื้อรังและผู้ป่วยติดเตียงจากระยะไกล</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://raw.githubusercontent.com/multi-innovations-healthcare/.github/main/profile/assets/MyINVENTORY_NB.png" alt="MyINVENTORY" height="30" />
+        <h4>MyINVENTORY</h4>
+      </div>
       <p>ระบบบริหารจัดการคลังยา เวชภัณฑ์ และอุปกรณ์ทางการแพทย์</p>
       <ul>
-        <li>ควบคุมสต็อกยาและเวชภัณฑ์แบบ Real-time พร้อมระบบแจ้งเตือนจุดสั่งซื้อ</li>
-        <li>ระบบบันทึกการจ่ายยาและเชื่อมต่อห้องจ่ายยาโดยตรง</li>
-        <li>ตรวจสอบประวัติการแพ้ยาและ Drug Interactions อัตโนมัติ</li>
+        <li><strong>Real-time Stock Control:</strong> ควบคุมยอดคงเหลือและตัดสต็อกยาอัตโนมัติเมื่อสั่งจ่าย</li>
+        <li><strong>Drug Safety Alerts:</strong> ระบบตรวจสอบประวัติแพ้ยาและปฏิกิริยาระหว่างยา (Drug Interactions)</li>
+        <li><strong>Reorder Point Notification:</strong> แจ้งเตือนยาใกล้หมดอายุและจุดสั่งซื้อล่วงหน้า</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🪪 MySmartAgent & Healthcare IoT</h4>
-      <p>บริดจ์ฮาร์ดแวร์และอุปกรณ์เชื่อมต่อสำหรับสถานพยาบาล</p>
+      <div align="left">
+        <h4>🪪 MySmartAgent & Healthcare IoT</h4>
+      </div>
+      <p>โซลูชันเชื่อมต่ออุปกรณ์ฮาร์ดแวร์เพื่อความสะดวกรวดเร็วในการบริการ</p>
       <ul>
-        <li>อ่านข้อมูลบัตรประจำตัวประชาชนไทย (Thai ID Smartcard Bridge)</li>
-        <li>เชื่อมต่อตู้บริการอเนกประสงค์ (Smart Healthcare Kiosks)</li>
-        <li>รองรับทั้ง Windows Desktop, Android และ Web Service Callback</li>
+        <li><strong>Thai ID Smartcard Bridge:</strong> อ่านข้อมูลบัตรประชาชนไทยเข้าสู่ระบบเวชระเบียนทันที</li>
+        <li><strong>Smart Healthcare Kiosks:</strong> ตู้บริการสุขภาพอเนกประสงค์ (ลงทะเบียน, วัดความดัน, คัดกรอง)</li>
+        <li><strong>Cross-Platform Support:</strong> รองรับการเชื่อมต่อผ่าน Windows Service, Android และ Local Bridge</li>
       </ul>
     </td>
   </tr>
@@ -101,9 +116,17 @@
 
 ### 🌟 โอเพนซอร์สและไลบรารีสำหรับนักพัฒนา (Developer Tools & Open Source)
 
-- **[MyUI (@multi_innovations_healthcare/myui)](https://github.com/multi-innovations-healthcare/myui)**: Component Library บน React 19 และ Tailwind CSS ที่ออกแบบเฉพาะสำหรับ Healthcare Web Applications สไตล์ทันสมัย น้ำหนักเบา และพร้อมใช้งานทันที
-  - 📖 **เอกสารคู่มือการใช้งาน:** [myui.mih.co.th](https://myui.mih.co.th)
-  - 📦 **NPM Package:** `npm install @multi_innovations_healthcare/myui`
+<div align="left">
+
+#### 📦 [MyUI (@multi_innovations_healthcare/myui)](https://github.com/multi-innovations-healthcare/myui)
+**Modern React 19 & Tailwind CSS component library designed specifically for healthcare applications.**
+- 🎨 ออกแบบ UI/UX ให้อ่านง่าย สบายตา และเข้ากับบริบทงานสุขภาพ (Clinical & Healthcare Theme)
+- ⚡ ประสิทธิภาพสูง Zero-config Styles พร้อมใช้งานทันทีโดยไม่ต้องตั้งค่า config ซับซ้อน
+- ♿ รองรับ Accessibility (a11y) และ responsive design ทุกขนาดหน้าจอ
+- 📖 **Documentation:** [myui.mih.co.th](https://myui.mih.co.th)
+- 💻 **Installation:** `npm install @multi_innovations_healthcare/myui`
+
+</div>
 
 ---
 
@@ -125,12 +148,14 @@
 
 ---
 
-### 📬 ช่องทางการติดต่อ (Contact Us)
+### 📬 ช่องทางการติดต่อ (Contact & Information)
 
-- 🏢 **บริษัท มัลติ อินโนเวชั่น เฮลแคร์ จำกัด**
-- 🌐 **Website:** [https://www.mih.co.th](https://www.mih.co.th)
-- 📚 **UI Docs:** [https://myui.mih.co.th](https://myui.mih.co.th)
-- 📍 **ที่ตั้ง:** กรุงเทพมหานคร, ประเทศไทย (Bangkok, Thailand)
+- 🏢 **บริษัท มัลติ อินโนเวชั่น เฮลแคร์ จำกัด (Multi Innovations Healthcare Co., Ltd.)**
+- 🌐 **Official Website:** [https://www.mih.co.th](https://www.mih.co.th)
+- 📚 **MyUI Documentation:** [https://myui.mih.co.th](https://myui.mih.co.th)
+- 📍 **ที่ตั้งสำนักงาน:** กรุงเทพมหานคร, ประเทศไทย (Bangkok, Thailand)
+
+<br />
 
 <div align="center">
   <sub>© 2026 Multi Innovations Healthcare Co., Ltd. All rights reserved.</sub>
